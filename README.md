@@ -12,5 +12,5 @@ This tool simply allows you to automate an account creation on discord.com
 ### Execute the script
 `$ py main.py` (make sure you navigate to the folder where the script is placed in first 😊)
 
-### How it works in action
+## How it works in action
 [![asciicast](https://asciinema.org/a/HdLBeoiT3bNOmY2bbDohIf08D.svg)](https://asciinema.org/a/HdLBeoiT3bNOmY2bbDohIf08D)
