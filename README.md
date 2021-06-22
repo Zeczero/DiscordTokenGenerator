@@ -6,7 +6,7 @@ This tool simply allows you to automate an account creation on discord.com
 * Required packages placed in `requirements.txt` file
 * [2Captcha](https://2captcha.com/) API Key
 
-###⚠️ Install required packages
+### ⚠️ Install required packages
 `$ pip install -r requirements.txt`
 
 
