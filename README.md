@@ -16,8 +16,8 @@ This tool simply allows you to automate an account creation on discord.com
 [![asciicast](https://asciinema.org/a/HdLBeoiT3bNOmY2bbDohIf08D.svg)](https://asciinema.org/a/HdLBeoiT3bNOmY2bbDohIf08D)
 
 ### Plans for the future
-❌ Add phone and email verification
-❌ Make the code easier to maintain
+❌ Add phone and email verification <br>
+❌ Make the code easier to maintain<br>
 ❌ Optimize it
 
 
