@@ -9,4 +9,5 @@ This tool simply allows you to automate an account creation on discord.com
 ### ⚠️ Install required packages
 `$ pip install -r requirements.txt`
 
-
+### Execute the script
+`$ py main.py` (make sure you navigate to the folder where the script is placed in first 😊)
