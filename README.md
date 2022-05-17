@@ -22,4 +22,4 @@ This tool simply allows you to automate an account creation on discord.com
 
 
 #### 🚨 Warning
-This project was created for learning purposes only and is not intended to harm anyone
+This project was created for learning purposes only and is not intended to harm anyone. Project outdated at the moment.
